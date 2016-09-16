@@ -1,5 +1,5 @@
 # Laravel-docs
-Offline full `Laravel` official documentation
+Full offline `Laravel` official documentation
 
 ## How to install
 
